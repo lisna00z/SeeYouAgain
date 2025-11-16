@@ -1,0 +1,14 @@
+# 后端依赖
+fastapi==0.109.0
+uvicorn==0.27.0
+pydantic==2.5.3
+psutil==5.9.8
+python-multipart==0.0.6
+
+# 前端依赖
+gradio==4.16.0
+requests==2.31.0
+
+# 可选：用于图片转视频
+# opencv-python==4.9.0.80
+# 注意：需要系统安装ffmpeg
